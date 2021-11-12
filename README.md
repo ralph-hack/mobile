@@ -9,7 +9,7 @@ expo start <p>
 a <p>
 
 # Run a mobile app (Visual Studio)
-Open VS Code: mobile\[new app subfolder i.e. my-app] <p>
+Open VS Code: mobile\\[new app subfolder i.e. my-app] <p>
 View > Terminal <p>
 expo start <p>
 a <p>
