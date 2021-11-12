@@ -1,5 +1,3 @@
-# mobile
-
 # Create a new mobile app
 cd mobile <p>
 expo init <p>
