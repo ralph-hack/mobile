@@ -27,6 +27,7 @@ Welcome Android Studio Screen > Settings > AVD
 # Any Issues (VS Code: Terminal) - Part 2
 Ctrl-C <p>
 Task Manager > kill adb.exe process  <p>
+Close VS Code + Open VS Code <p>
 expo start <p>
 Shift+A and choose a different emulator <p>
   - it might say expo installing <p>
