@@ -25,7 +25,7 @@ AVD icon in toolbar > delete phone image > create new one <p>
 Welcome Android Studio Screen > Settings > AVD
 
 # Any Issues (VS Code: Terminal) - Part 2
-Delete and Create new Phone iaage (maybe use Q Android OS)
+Delete and Create new Phone image (maybe use Q Android OS)
 Ctrl-C <p>
 Task Manager > kill adb.exe process  <p>
 Close VS Code + Open VS Code <p>
