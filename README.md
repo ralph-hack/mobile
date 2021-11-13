@@ -25,9 +25,13 @@ AVD icon in toolbar > delete phone image > create new one <p>
 Welcome Android Studio Screen > Settings > AVD
 
 # Any Issues (VS Code: Terminal) - Part 2
+Delete and Create new Phone iaage (maybe use Q Android OS)
 Ctrl-C <p>
 Task Manager > kill adb.exe process  <p>
 Close VS Code + Open VS Code <p>
 expo start <p>
+Connection: Tunnel <p>  
 Shift+A and choose a different emulator <p>
-  - it might say expo installing <p>
+  - if it says Expo installing that's a great sign it's working! <p>
+
+    
